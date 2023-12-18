@@ -1,0 +1,1 @@
+export const SPLASHSCREEN_TIMEOUT:number = 2000;

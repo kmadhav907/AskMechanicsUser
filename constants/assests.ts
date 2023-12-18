@@ -1,0 +1,1 @@
+export const splashViewImage = require('../assets/SplashScreen.jpeg');
